@@ -83,7 +83,7 @@ LinkInBio/
 
 ---
 
-## ⚙️ Teknik Kararlar
+## ⚙️ Projede Kullanılan Teknikler
 
 <details>
 <summary><b>📌 Tıklanma Oranı (CTR) ve Ayrık Analitik Tabloları</b></summary>
