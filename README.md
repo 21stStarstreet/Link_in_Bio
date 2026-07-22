@@ -130,9 +130,3 @@ npm run dev
 **Veritabanı:** SQLite (Local DB)
 **Frontend:** React 19, Vite, React Router, Axios
 **Grafik & Görsellik:** Recharts, Lucide Icons, Vanilla CSS
-
----
-
-<p align="center">
-  <i>Developed with ❤️ by <a href="https://github.com/IsmetKerem">Ismet Kerem</a></i>
-</p>
