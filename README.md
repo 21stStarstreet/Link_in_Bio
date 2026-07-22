@@ -29,30 +29,26 @@ Amaç sıradan bir profil sayfası veya link listesi oluşturmak değil; **gerç
 ### Kullanıcı Profili (Canlı Görünüm)
 Ziyaretçilerin karşılaştığı, özelleştirilmiş arka plan ve butonlarla tasarlanmış vitrin sayfası.
 
-<img width="800" alt="Profil Ekran Görüntüsü" src="<img width="1911" height="986" alt="kullanici_ekrani" src="https://github.com/user-attachments/assets/d4b45f7a-d169-4221-a755-4f44a9c48486" />
-" />
+<img width="800" alt="Profil Ekran Görüntüsü" src="https://github.com/user-attachments/assets/d4b45f7a-d169-4221-a755-4f44a9c48486" />
 
 ### Analitik Dashboard
 Toplam görüntülenme, toplam tıklanma ve CTR oranlarını gösteren anlık performans sayfası.
 
-<img width="800" alt="Dashboard Ekran Görüntüsü" src="<img width="1902" height="986" alt="dashboard1" src="https://github.com/user-attachments/assets/c8e6e563-4443-4ba2-acd2-979264360327" />
-" />
-<img width="800" alt="Dashboard Ekran Görüntüsü" src="<img width="1900" height="990" alt="dashboard2" src="https://github.com/user-attachments/assets/62939823-02ad-46a5-8778-5b99100c7685" /> ,
-" />
+<img width="800" alt="Dashboard Ekran Görüntüsü 1" src="https://github.com/user-attachments/assets/c8e6e563-4443-4ba2-acd2-979264360327" />
+<br/>
+<img width="800" alt="Dashboard Ekran Görüntüsü 2" src="https://github.com/user-attachments/assets/62939823-02ad-46a5-8778-5b99100c7685" />
 
 ### Tema ve Özelleştirme Ayarları
 Gradyan renk geçişleri, buton ovallikleri ve sosyal medya entegrasyonlarının yapıldığı panel.
 
-<img width="800" alt="Tema Ekran Görüntüsü" src="<img width="1900" height="987" alt="Ekran görüntüsü 2026-07-23 001138" src="https://github.com/user-attachments/assets/ec63402f-79b6-4eba-9895-9524b00912f5" />
-" />
-<img width="800" alt="Tema Ekran Görüntüsü" src="<img width="1896" height="987" alt="Ekran görüntüsü 2026-07-23 001150" src="https://github.com/user-attachments/assets/a14812c7-6a2f-4329-889a-d937960db6e9" />
-" />
+<img width="800" alt="Tema Ekran Görüntüsü 1" src="https://github.com/user-attachments/assets/ec63402f-79b6-4eba-9895-9524b00912f5" />
+<br/>
+<img width="800" alt="Tema Ekran Görüntüsü 2" src="https://github.com/user-attachments/assets/a14812c7-6a2f-4329-889a-d937960db6e9" />
 
 ### 📱 Mobil Görünüm
 Platformun %100 mobil uyumlu çalışan profil sayfası ve yönetici panelinin telefonlardaki şık görünümü (Mevcuttaki görsel profil sayfasının mobildeki görüntüsüdür.).
 
-<img width="400" alt="Mobil Ekran Görüntüsü" src="<img width="421" height="897" alt="Ekran görüntüsü 2026-07-23 001308" src="https://github.com/user-attachments/assets/a9fc1d81-1db4-4944-8d27-9512e9153172" />
-" />
+<img width="400" alt="Mobil Ekran Görüntüsü" src="https://github.com/user-attachments/assets/a9fc1d81-1db4-4944-8d27-9512e9153172" />
 
 ---
 
