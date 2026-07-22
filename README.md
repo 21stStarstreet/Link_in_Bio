@@ -124,7 +124,7 @@ npm run dev
 
 ---
 
-## 🛠️ Teknoloji Yığını
+## 🛠️ Kullanılan Teknolojiler
 
 **Backend:** .NET 10, ASP.NET Core Web API, Entity Framework Core, JWT
 **Veritabanı:** SQLite (Local DB)
